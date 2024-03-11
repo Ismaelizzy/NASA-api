@@ -1,0 +1,25 @@
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\second attept at API.exe
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\second attept at API.deps.json
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\second attept at API.runtimeconfig.json
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\second attept at API.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\second attept at API.pdb
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\second attept at API.csproj.AssemblyReference.cache
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\second attept at API.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\second attept at API.AssemblyInfoInputs.cache
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\second attept at API.AssemblyInfo.cs
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\second attept at API.csproj.CoreCompileInputs.cache
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\second attept at API.csproj.CopyComplete
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\second attept at API.dll
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\refint\second attept at API.dll
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\second attept at API.pdb
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\second attept at API.genruntimeconfig.cache
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\ref\second attept at API.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll

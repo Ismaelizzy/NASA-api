@@ -1,0 +1,50 @@
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\NASAApi.csproj.AssemblyReference.cache
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\NASAApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\NASAApi.AssemblyInfoInputs.cache
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\NASAApi.AssemblyInfo.cs
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\NASAApi.csproj.CoreCompileInputs.cache
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\NASAApi.exe
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\NASAApi.deps.json
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\NASAApi.runtimeconfig.json
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\NASAApi.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\NASAApi.pdb
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\visual studio files\second attept at API\second attept at API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\NASAApi.csproj.CopyComplete
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\NASAApi.dll
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\refint\NASAApi.dll
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\NASAApi.pdb
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\NASAApi.genruntimeconfig.cache
+C:\visual studio files\second attept at API\second attept at API\obj\Debug\net8.0\ref\NASAApi.dll
+C:\visual studio files\NASA api\second attept at API\bin\Debug\net8.0\NASAApi.exe
+C:\visual studio files\NASA api\second attept at API\bin\Debug\net8.0\NASAApi.deps.json
+C:\visual studio files\NASA api\second attept at API\bin\Debug\net8.0\NASAApi.runtimeconfig.json
+C:\visual studio files\NASA api\second attept at API\bin\Debug\net8.0\NASAApi.dll
+C:\visual studio files\NASA api\second attept at API\bin\Debug\net8.0\NASAApi.pdb
+C:\visual studio files\NASA api\second attept at API\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\visual studio files\NASA api\second attept at API\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\visual studio files\NASA api\second attept at API\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\visual studio files\NASA api\second attept at API\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\visual studio files\NASA api\second attept at API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\visual studio files\NASA api\second attept at API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\visual studio files\NASA api\second attept at API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\visual studio files\NASA api\second attept at API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\visual studio files\NASA api\second attept at API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\visual studio files\NASA api\second attept at API\obj\Debug\net8.0\NASAApi.csproj.AssemblyReference.cache
+C:\visual studio files\NASA api\second attept at API\obj\Debug\net8.0\NASAApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio files\NASA api\second attept at API\obj\Debug\net8.0\NASAApi.AssemblyInfoInputs.cache
+C:\visual studio files\NASA api\second attept at API\obj\Debug\net8.0\NASAApi.AssemblyInfo.cs
+C:\visual studio files\NASA api\second attept at API\obj\Debug\net8.0\NASAApi.csproj.CoreCompileInputs.cache
+C:\visual studio files\NASA api\second attept at API\obj\Debug\net8.0\NASAApi.csproj.CopyComplete
+C:\visual studio files\NASA api\second attept at API\obj\Debug\net8.0\NASAApi.dll
+C:\visual studio files\NASA api\second attept at API\obj\Debug\net8.0\refint\NASAApi.dll
+C:\visual studio files\NASA api\second attept at API\obj\Debug\net8.0\NASAApi.pdb
+C:\visual studio files\NASA api\second attept at API\obj\Debug\net8.0\NASAApi.genruntimeconfig.cache
+C:\visual studio files\NASA api\second attept at API\obj\Debug\net8.0\ref\NASAApi.dll
